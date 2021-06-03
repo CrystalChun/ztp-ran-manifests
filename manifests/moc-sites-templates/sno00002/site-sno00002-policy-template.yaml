@@ -1,7 +1,7 @@
 apiVersion: policy.open-cluster-management.io/v1
 kind: Policy
 metadata:
-    name: site-sno00002-sriov-nw-fh-policy
+    name: site-sno00002-policy
     namespace: sites-sub
     annotations:
         policy.open-cluster-management.io/categories: CM Configuration Management
